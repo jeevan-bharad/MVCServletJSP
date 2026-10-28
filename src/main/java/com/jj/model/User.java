@@ -13,6 +13,7 @@ public class User {
 		this.email = email;
 		this.gender = gender;
 		this.city = city;
+		
 	}
 
 	public User() {
